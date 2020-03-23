@@ -1,2 +1,2 @@
 # CODECHEF
-Codechef contest problem solution.
+Codechef contest problem solutions.
