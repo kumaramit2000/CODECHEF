@@ -15,14 +15,7 @@ int main() {
     cin>>t;
     while(t--)
     {
-       ll n;
-       cin>>n;
-       ll count=0;
-       for(int i=5;n/i>=1;i*=5)
-       {
-          count+=n/i;
-       }
-       cout<<count<<endl;
+       //for try only;
     }
-	return 0;
+    return 0;
 }
